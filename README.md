@@ -84,7 +84,7 @@ sh run-bbq.sh
 
 Alternatively, you can download our calculated projections and bake it in to the LLM you are evaluating, which means you can skip the 2nd and 3rd steps in running SEA from scratch.
 
-First, please donwload our calculated projections from [google clouds]() and place the corresponding projections into `./bias_projections` and `./truthful_projections`.
+First, please donwload our calculated projections from [truthfulness projections](https://drive.google.com/file/d/1AhyXAgWJCCo_CrwG4j30CupTzxoPBOYM/view?usp=drive_link) and [fairness projections](https://drive.google.com/drive/folders/1D71F6HVkM9EYMDfYDzDTFw0xDfy-IeR0?usp=drive_link) and place the corresponding projections into `./bias_projections` and `./truthful_projections`.
 
 Then you can again run the following scripts for TruthfulQA and BBQ.
 
